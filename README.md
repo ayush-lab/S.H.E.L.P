@@ -1,5 +1,5 @@
 # Coursera Clone 
-S.H.E.L.P (Sharing and helping E-Learning Platform)
+## S.H.E.L.P (Sharing and helping E-Learning Platform)
 ##### It is a fully responsive Coursera Clone made using React.js as Frontend and Node.js as backend and has all of its features from uploading courses as a teacher to watching them like students and it i
 
 ### Features
@@ -25,62 +25,54 @@ S.H.E.L.P (Sharing and helping E-Learning Platform)
 - [x] Teacher can edit their course
 
 ### Screenshots
----
 #### Authentication pages
-   ---
+ 
  ```  Signup Page ```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/shelpSignup.png)
 
-  ---
  ```  Login Page ```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/loginShelp.png)
 
-  ---
  ```  Otp and Resend Otp Page ```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/otp.png)
 
-  ---
+ 
  ```  Forgot Password Page ```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/forgotPassword.png)
 
  ---
  #### Main Screens
 
- ---
   ```Homepage```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/homepage.png)
 
- ---
+
 ```Course Page```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/coursePage.png)
 
- ---
+
 ```Preference Page```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/shlepPreference.png)
 
- ---
 ```Teacher's Courses ```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/teachershelp.png)
 
----
 ```Teacher Uploading Details```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/TeacherUploadCourse.png)
 
- ---
+
 ```Teacher Uploading Videos```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/uploadshelp.png)
 
-
+---
 #### Responsive Designs
- ---
 ```Mobile Design Authentication```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/mobileLogin.png)
 
- ---
+ 
 ```Mobile Design CoursePage```
 ![alt text](https://raw.githubusercontent.com/AbhishekSrivas114319/S.H.E.L.P/master/Front-end/src/assets/mobilecourse.png)
 
----
 
 
 
